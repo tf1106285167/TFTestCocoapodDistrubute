@@ -17,7 +17,7 @@
 
 Pod::Spec.new do |s|
 s.name         = 'TFTestDistrubute'
-s.version      = '1.0.0'
+s.version      = '1.0.1'
 s.summary      = '实现一个表中两个tableview'
 s.homepage     = 'https://github.com/tf1106285167/TFTestCocoapodDistrubute'
 s.license      = 'MIT'
